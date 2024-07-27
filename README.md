@@ -6,8 +6,8 @@ We have data about users who enroll/visit a course page. We know the goal is to 
 
 # Data #
 Each row represents an interaction record of a user. The dataset includes the following columns:
-user_id: A unique identifier for each user.
-timestamp: The timestamp when the user visited the page.
-group: The experimental group the user belongs to, including "control" (control group) and "treatment" (treatment group).
-landing_page: The page the user saw, either "old_page" (old page) or "new_page" (new page).
-converted: Whether the user converted (e.g., registered, made a purchase, etc.), with 1 indicating conversion and 0 indicating no conversion.
+- user_id: A unique identifier for each user.
+- timestamp: The timestamp when the user visited the page.
+- group: The experimental group the user belongs to, including "control" (control group) and "treatment" (treatment group).
+- landing_page: The page the user saw, either "old_page" (old page) or "new_page" (new page).
+- converted: Whether the user converted (e.g., registered, made a purchase, etc.), with 1 indicating conversion and 0 indicating no conversion.
