@@ -2,7 +2,7 @@
 Optimizing Product Recommendations through AB Testing and UI Enhancements
 
 # Background #
-We have data about users who enroll/visit a course page. We know the goal is to come uo with recommendations for the product and marketing teams to implement the changes or not. We have a new UI change and we want to investigate whether to launch the cahnge given the data below.
+We have data about users who enroll/visit a course page. We know the goal is to come uo with recommendations for the product and marketing teams to implement the changes or not. We have a new UI change and we want to investigate whether to launch the cahnge given the data below. Your goal is to work through this notebook to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 # Data #
 Each row represents an interaction record of a user. The dataset includes the following columns:
